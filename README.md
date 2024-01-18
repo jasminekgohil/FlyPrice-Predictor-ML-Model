@@ -1,4 +1,4 @@
-# Machine-Learning-Project
+# FlyPrice Predictor Machine Learning Model
 
 Contributors 
 - Aishwarya Jayant Rauthan
